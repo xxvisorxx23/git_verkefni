@@ -13,7 +13,8 @@
 	git checkout update i working tree til að matcha version í index eða specified tree
 3Hver er munurinn á eftirfarandi git skipunum:
 	a) Shows file differences not yet staged
-	b) Shows file differences between staging and the last file version
+	b) Shows file differences between staging and the last file version
+
 	c) Shows content differences between two branches
 4.Hvað er útgáfustýring (e.version control)? 
 	 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later
@@ -23,3 +24,4 @@
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
+nafn:kristjan ingi ragnarsson
