@@ -1,1 +1,25 @@
-Git spurningar og svör
+﻿Git spurningar og svör
+1. 	Hvað gera eftirfarandi Linux skipanir?
+	cd breytir current directory
+	cd ~ breytir í home directory
+	ls listar files og directories
+	pwd printar vinnu directory
+	mkdir býr til directories
+2.Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone copy a git repository so you can add to it ef þú ert að vinna með einhverjum
+	git log Shows the commit logs
+	git status Show the working tree status
+	git diff sýnir breytur milli verkefna
+	git checkout update i working tree til að matcha version í index eða specified tree
+3Hver er munurinn á eftirfarandi git skipunum:
+	a) Shows file differences not yet staged
+	b) Shows file differences between staging and the last file version
+	c) Shows content differences between two branches
+4.Hvað er útgáfustýring (e.version control)? 
+	 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later
+5.Hverjir eru helstu kostir við að nota GIT?
+	gott fyrir hópverkefnum og létt að fá gamalar skráir aftur
+6.Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
